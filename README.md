@@ -46,17 +46,10 @@ The objective of this project is to build a predictive model that accurately cla
 To run the analysis and models, clone the repository and follow the instructions in the `README.md` file.
 
 ```bash
-git clone [repository link]
+git clone [https://github.com/Volcann/Predictive-Maintenance.git]
 cd [project directory]
 ```
 
 ### Technologies Used
 - Python
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, etc.
-
-### License
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust any sections as needed to better reflect your project!
