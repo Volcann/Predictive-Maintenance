@@ -82,7 +82,7 @@ There are two target variables:
 
 3. **Confusion Matrix**:
 
-   ![Predictive Maintenance](predictive_maintenance.png)
+   ![Confusion Matrix](https://github.com/Volcann/Predictive-Maintenance/blob/bb1c21a0e1442b00df86794bac61c795bc2edacc/Unknown-4.png)
 
    - **True Positives (TP)**: 44 
    - **True Negatives (TN)**: 1928 
@@ -99,7 +99,7 @@ The model achieves a high overall accuracy of 98.60%, demonstrating effective cl
 
 The ROC curve is a graphical tool used to evaluate the performance of a binary classification model, illustrating the trade-off between the true positive rate (TPR) and the false positive rate (FPR) across various threshold settings. 
 
-![Predictive Maintenance](predictive_maintenance.png)
+![ROC (Receiver Operating Characteristic) Curve](https://github.com/Volcann/Predictive-Maintenance/blob/bb1c21a0e1442b00df86794bac61c795bc2edacc/Unknown-3.png)
 
 ### Key Concepts
 
@@ -127,7 +127,7 @@ The AUC summarizes model performance across thresholds, where a value of 1 repre
 
 The features **Tool Wear [min]**, **Torque [Nm]**, and **Rotational Speed [rpm]** demonstrate the highest statistical correlation with the target variable, marking them as significant predictors. In contrast, features like **Air Temperature [K]** and **Process Temperature [K]** exhibit minimal contribution, suggesting potential redundancy or irrelevance.
 
-![Predictive Maintenance](predictive_maintenance.png)
+![Interpretation of Key Predictive Features](https://github.com/Volcann/Predictive-Maintenance/blob/bb1c21a0e1442b00df86794bac61c795bc2edacc/Unknown-1.png)
 
 ---
 
